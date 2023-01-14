@@ -1,2 +1,2 @@
 let c = "ura";
-console.log(c);
+console.log(c, "manual");
